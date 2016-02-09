@@ -4,19 +4,38 @@ $(window).scroll(function(){
 
   var wScroll = $(this).scrollTop();
 
-  if (wScroll <= pContainerHeight) {
+  if (wScroll <= pContainerHeight+200) {
 
-    $('.logo').css({
-      'transform' : 'translate(0px, -'+ wScroll /40 +'%)'
+    console.log(wScroll)
+
+/*    $('header').css({
+      'height' : 50 + '%',
+      'width' : 50 + '%',
+    });*/
+
+    $('.robot-box').css({
+      'height' : 90*(pContainerHeight-wScroll)/(pContainerHeight)+10 + 'vh',
     });
 
-    $('.back-bird').css({
-      'transform' : 'translate(0px, '+ wScroll /4 +'%)'
+    $('.logo').css({
+      'top' : 10*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
+      'height' : 40*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
+      'width' : 50*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
+    });
+
+    $('.icons').css({
+      'transform' : 'translate(0px, '+ wScroll /5 +'%)',
+      'height' : 50 + '%',
+      'width' : 50 + '%',
     });
 
     $('.fore-bird').css({
-      'transform' : 'translate(0px, -'+ wScroll /40 +'%)'
+      'top' : (-45)*(wScroll)/(pContainerHeight)+60+ '%',
+      'height' : 45*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
+      'width' : 50*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
     });
+
+
 
   }
 

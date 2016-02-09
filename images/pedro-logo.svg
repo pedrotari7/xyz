@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -9,94 +9,144 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="200"
+   id="svg2"
    version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 378.07 77.07"
-   enable-background="new 0 0 378.07 77.07"
-   xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="pedro-logo.svg"><metadata
-     id="metadata3864"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-     id="defs3862" /><sodipodi:namedview
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pedro-logo.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3845">
+      <stop
+         style="stop-color:#730000;stop-opacity:1;"
+         offset="0"
+         id="stop3847" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3849" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     id="namedview3860"
+     inkscape:zoom="2"
+     inkscape:cx="211.59705"
+     inkscape:cy="47.898052"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:zoom="3.2805176"
-     inkscape:cx="226.83128"
-     inkscape:cy="29.487709"
-     inkscape:window-x="0"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="49"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" /><g
-     id="g3854"><rect
-       x="0"
-       y="68.629997"
-       width="96.494011"
-       height="1.6799999"
-       id="rect3856" /><rect
-       x="280.6615"
-       y="68.629997"
-       width="97.713326"
-       height="1.6799999"
-       id="rect3858" /></g><text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="111.29939"
-     y="72.497551"
-     id="text3902"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3904"
-       x="111.29939"
-       y="72.497551"
-       style="font-size:17.5px">Robotics Engineer</tspan></text>
-<g
-     id="g3816-2"
-     transform="matrix(1.2532669,0,0,1.5612718,-49.7715,-11.432298)"><flowRoot
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36218)">
+    <flowRoot
        xml:space="preserve"
-       id="flowRoot3894-8"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(38.299898,6.4050345)"><flowRegion
-         id="flowRegion3896-3"><rect
-           id="rect3898-8"
-           width="299.05679"
-           height="46.912212"
-           x="1.2193198"
-           y="1.1673422" /></flowRegion><flowPara
-         id="flowPara3900-2"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.74447632px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Pedro Alvito</flowPara></flowRoot><flowRoot
+       id="flowRoot2993"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,652.36218)"><flowRegion
+         id="flowRegion2995"><rect
+           id="rect2997"
+           width="349.00769"
+           height="41.921329"
+           x="143.44167"
+           y="225.74869" /></flowRegion><flowPara
+         id="flowPara2999">R</flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot3882-6"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion3884-4"><rect
-           id="rect3886-8"
-           width="45.114834"
-           height="41.456875"
-           x="0.30482996"
-           y="0.86251229"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold'" /></flowRegion><flowPara
-         id="flowPara3888-4">PpvdhdjkfhdsPppp</flowPara></flowRoot><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-3.2343521"
-       y="44.051765"
-       id="text3890-7"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="119.54883"
+       y="1037.4255"
+       id="text3001"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3892-3"
-         x="-3.2343521"
-         y="44.051765" /></text>
-</g></svg>
+         id="tspan3003"
+         x="119.54883"
+         y="1037.4255"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">Robotics Engineer</tspan></text>
+    <a
+       id="a3853"
+       style="fill:#0274b3;fill-opacity:1">
+      <text
+         transform="scale(0.96632362,1.03485)"
+         sodipodi:linespacing="176%"
+         id="text2996"
+         y="920.55664"
+         x="-7.4118099"
+         style="font-size:59.59352875000000438px;font-style:normal;font-weight:normal;text-align:start;line-height:175.99999904999998535%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0274b3;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           id="tspan2998"
+           y="920.55664"
+           x="-7.4118099"
+           sodipodi:role="line"><tspan
+             id="tspan3000"
+             style="font-size:107.26836395000000834px;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:175.99999904999998535%;text-anchor:start;fill:#0274b3;fill-opacity:1;stroke:none;font-family:Droid Sans Armenian;-inkscape-font-specification:Droid Sans Armenian Bold"
+             y="920.55664"
+             x="-7.4118099">Pedro </tspan></tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:100.86525726px;font-style:normal;font-weight:bold;line-height:194.00000572%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="340.91025"
+       y="918.27289"
+       id="text3839"
+       sodipodi:linespacing="194.00001%"
+       transform="scale(0.96424261,1.0370834)"><tspan
+         sodipodi:role="line"
+         x="340.91025"
+         y="918.27289"
+         id="tspan3841"
+         style="font-weight:normal;-inkscape-font-specification:Sans"><tspan
+           x="340.91025"
+           y="918.27289"
+           style="font-weight:normal;line-height:194.00000572%;letter-spacing:-0.23999999px;stroke:none;-inkscape-font-specification:Sans"
+           id="tspan3843">Alvito</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3823"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Bold"><flowRegion
+         id="flowRegion3825"><rect
+           id="rect3827"
+           width="788"
+           height="97"
+           x="-128"
+           y="49" /></flowRegion><flowPara
+         id="flowPara3829" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3831"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Bold"><flowRegion
+         id="flowRegion3833"><rect
+           id="rect3835"
+           width="747"
+           height="164"
+           x="-91"
+           y="-62" /></flowRegion><flowPara
+         id="flowPara3837" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer" />
+</svg>
