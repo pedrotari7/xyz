@@ -28,6 +28,8 @@ img
 
 header
   position: fixed
+  top: 0
+  left: 0
 
 
 // Parallax
@@ -42,71 +44,73 @@ header
     position: top center
     attachment: fixed
   overflow: hidden
+  top: 0
+  left: 0
 
-.logo
-  height: 40%
-  width: 50%
-  min-height: 18%
-  min-width: 20%
-  background:
-    image: url(../images/pedro-logo.svg)
-    repeat: no-repeat
-    position: top left
-    size: contain
-  position: fixed
-  top: 15%  
-  left: 10%
-
-.icons
-  height: 20%
-  width: 50%
-  position: fixed
-  bottom: 5%
-  left: 10%
-  display: flex
-  justify-content: center
-  align-items: center
-
-  .linkedin
-    height: 100%
-    width: 20%
-    margin: 0 5%
+  .logo
+    height: 40%
+    width: 50%
+    min-height: 18%
+    min-width: 20%
     background:
-      image: url(../images/linkedin.png)
+      image: url(../images/pedro-logo.svg)
       repeat: no-repeat
+      position: top left
       size: contain
-      position: center
+    position: fixed
+    top: 15%  
+    left: 10%
 
-  .bitbucket
-    height: 100%
-    width: 20%
-    margin: 0 5%
-    background:
-      image: url(../images/bitbucket.png)
-      repeat: no-repeat
-      size: contain
-      position: center
-  .cv
-    height: 100%
-    width: 20%
-    margin: 0 5%
-    background:
-      image: url(../images/cv.png)
-      repeat: no-repeat
-      size: contain
-      position: center
+  .icons
+    height: 20%
+    width: 50%
+    position: fixed
+    bottom: 5%
+    left: 10%
+    display: flex
+    justify-content: center
+    align-items: center
 
-.fore-bird
-  width: 50%
-  height: 50%
-  background:
-    image: url(../images/face.png)
-    repeat: no-repeat
-    position: top right
-    size: contain
-  position: fixed
-  top: 50%
-  right: 0
+    .linkedin
+      height: 100%
+      width: 20%
+      margin: 0 5%
+      background:
+        image: url(../images/linkedin.png)
+        repeat: no-repeat
+        size: contain
+        position: center
+
+    .bitbucket
+      height: 100%
+      width: 20%
+      margin: 0 5%
+      background:
+        image: url(../images/bitbucket.png)
+        repeat: no-repeat
+        size: contain
+        position: center
+    .cv
+      height: 100%
+      width: 20%
+      margin: 0 5%
+      background:
+        image: url(../images/cv.png)
+        repeat: no-repeat
+        size: contain
+        position: center
+
+  .fore-bird
+    width: 50%
+    height: 50%
+    background:
+      image: url(../images/face.png)
+      repeat: no-repeat
+      position: top right
+      size: contain
+    position: fixed
+    top: 50%
+    right: 0
 
 // Model Grid
 
@@ -147,8 +151,6 @@ header
     padding: 2px 8px
     font-size: 11px
     transition: all 0.3s ease-in-out
-
-
 
 // large-window
 
@@ -207,7 +209,6 @@ header
         background: white
         color: black
 
-
 // posts
 
 .blog-posts
@@ -227,7 +228,6 @@ header
 
   .post-3
     transform: translate(-100px, 20px)
-
 
 //footer
 
