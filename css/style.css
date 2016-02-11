@@ -1,22 +1,22 @@
 /*
 Error: The line was indented 2 levels deeper than the previous line.
-        on line 87 of layout1.sass
+        on line 90 of layout1.sass
         from line 4 of style.sass
 
-82:   .linkedin
-83:     height: 20%
-84:     width: 20%
 85:     margin: 0 0
-86: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
-87:     background:
-88:       image: url(../images/pedro-logo.svg)
-89:       repeat: no-repeat
-90:       position: top left
-91:       size: contain
-92:     position: fixed
+86: <<<<<<< HEAD
+87: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
+88: =======
+89: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
+90:     background:
+91:       image: url(../images/pedro-logo.svg)
+92:       repeat: no-repeat
+93:       position: top left
+94:       size: contain
+95:     position: fixed
 
 Backtrace:
-layout1.sass:87
+layout1.sass:90
 style.sass:4
 /var/lib/gems/1.9.1/gems/sass-3.4.21/lib/sass/engine.rb:519:in `tree'
 /var/lib/gems/1.9.1/gems/sass-3.4.21/lib/sass/engine.rb:406:in `_to_tree'
@@ -63,4 +63,4 @@ style.sass:4
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: The line was indented 2 levels deeper than the previous line.\A         on line 87 of layout1.sass\A         from line 4 of style.sass\A \A 82:   .linkedin\A 83:     height: 20%\A 84:     width: 20%\A 85:     margin: 0 0\A 86: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554\A 87:     background:\A 88:       image: url(../images/pedro-logo.svg)\A 89:       repeat: no-repeat\A 90:       position: top left\A 91:       size: contain\A 92:     position: fixed"; }
+  content: "Error: The line was indented 2 levels deeper than the previous line.\A         on line 90 of layout1.sass\A         from line 4 of style.sass\A \A 85:     margin: 0 0\A 86: <<<<<<< HEAD\A 87: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554\A 88: =======\A 89: >>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554\A 90:     background:\A 91:       image: url(../images/pedro-logo.svg)\A 92:       repeat: no-repeat\A 93:       position: top left\A 94:       size: contain\A 95:     position: fixed"; }
