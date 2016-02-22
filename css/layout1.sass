@@ -18,7 +18,6 @@ figure
   overflow: hidden
 
   article
-    padding: 100px 0
     max-width: 640px
     margin: 0 auto
     text-align: center
@@ -26,10 +25,18 @@ figure
 img
   max-width: 100%
 
+
 header
   position: fixed
-  top: 0
-  left: 0
+  width: 100%
+  text-align: center
+  font-size: 72px
+  line-height: 108px
+  height: 108px
+  color: #fff
+
+
+ 
 
 
 // Parallax
@@ -44,148 +51,63 @@ header
     position: top center
     attachment: fixed
   overflow: hidden
-<<<<<<< HEAD
-  top: 0
-  left: 0
 
   .logo
     height: 40%
     width: 50%
     min-height: 18%
     min-width: 20%
-=======
-
-.logo
-  height: 40%
-  width: 50%
-  min-height: 18%
-  min-width: 20%
-  background:
-    image: url(../images/pedro-logo.svg)
-    repeat: no-repeat
-    position: top left
-    size: contain
-  position: fixed
-  top: 15%  
-  left: 10%
-
-.icons
-  height: 20%
-  width: 50%
-  position: fixed
-  bottom: 5%
-  left: 10%
-  display: flex
-  justify-content: center
-  align-items: center
-
-  .linkedin
-    height: 20%
-    width: 20%
-    margin: 0 0
-<<<<<<< HEAD
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
-=======
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
     background:
       image: url(../images/pedro-logo.svg)
       repeat: no-repeat
-      position: top left
+      position: center
       size: contain
     position: fixed
     top: 15%  
     left: 10%
 
   .icons
-    height: 20%
     width: 50%
     position: fixed
-    bottom: 5%
+    bottom: 10%
     left: 10%
     display: flex
     justify-content: center
     align-items: center
 
-<<<<<<< HEAD
-    .linkedin
+    a
       height: 100%
       width: 20%
-      margin: 0 5%
-      background:
-        image: url(../images/linkedin.png)
-        repeat: no-repeat
+      margin: 5% 5%
+      vertical-align:middle
+      img
         size: contain
-        position: center
+        display:table-cell
+        margin-left: auto
+        margin-right: auto
+        transition: all 2s ease
+      &:hover
+        img
+          display: block
+          transform: scale(1.5)
+          transition: all .1s ease
 
-    .bitbucket
-      height: 100%
-      width: 20%
-      margin: 0 5%
-      background:
-        image: url(../images/bitbucket.png)
-        repeat: no-repeat
-        size: contain
-        position: center
-    .cv
-      height: 100%
-      width: 20%
-      margin: 0 5%
-      background:
-        image: url(../images/cv.png)
-        repeat: no-repeat
-        size: contain
-        position: center
+    #SkypeButton_Call_pedrotari7_1_paraElement
+      display: none
 
   .fore-bird
     width: 50%
     height: 50%
-=======
-  .bitbucket
-    height: 30%
-    width: 30%
-    margin: 0 0%
-<<<<<<< HEAD
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
-=======
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
+    min-height: 25%
+    min-width: 20%
     background:
       image: url(../images/face.png)
       repeat: no-repeat
-<<<<<<< HEAD
-<<<<<<< HEAD
-      position: top right
+      position: bottom right
       size: contain
-    position: fixed
-    top: 50%
+    position: absolute
+    bottom: -25px
     right: 0
-=======
-=======
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
-      position: center
-      size: contain
-
-  .cv
-    height: 20%
-    width: 20%
-    margin: 0 0
-    background:
-      image: url(../images/cv.png)
-      repeat: no-repeat
-      size: contain
-      position: center
-
-.fore-bird
-  width: 50%
-  height: 50%
-  background:
-    image: url(../images/face.png)
-    repeat: no-repeat
-    position: top right
-    size: contain
-  position: fixed
-  top: 50%
-  right: 0
->>>>>>> 05007fc27f7802a73b19da3a21a9cda721ea4554
 
 // Model Grid
 

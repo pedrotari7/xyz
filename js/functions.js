@@ -4,18 +4,27 @@ $(window).scroll(function(){
 
   var wScroll = $(this).scrollTop();
 
-  if (wScroll <= pContainerHeight+200) {
-
-    console.log(wScroll)
-
-/*    $('header').css({
-      'height' : 50 + '%',
-      'width' : 50 + '%',
-    });*/
-
-    $('.robot-box').css({
-      'height' : 90*(pContainerHeight-wScroll)/(pContainerHeight)+10 + 'vh',
+  if (wScroll > 1){  
+    $('header').addClass("sticky");
+    $('.icons').css({
+      bottom: 0 +'%',
+      left: 40 + '%',
+      top: 5 + '%',
+      width: 40 + '%',
     });
+  }
+  else{
+    $('header').removeClass("sticky");
+    $('.icons').css({
+      left: 10 + '%',
+      top: 100 + '%',
+      width: 50 + '%',
+    });
+  }
+
+  if (wScroll <= pContainerHeight) {
+
+    console.log(wScroll);
 
     $('.logo').css({
       'top' : 10*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
@@ -23,18 +32,11 @@ $(window).scroll(function(){
       'width' : 50*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
     });
 
-    $('.icons').css({
-      'transform' : 'translate(0px, '+ wScroll /5 +'%)',
-      'height' : 50 + '%',
-      'width' : 50 + '%',
-    });
-
     $('.fore-bird').css({
-      'top' : (-45)*(wScroll)/(pContainerHeight)+60+ '%',
-      'height' : 45*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
+/*      'top' : (-45)*(wScroll)/(pContainerHeight)+60+ '%',*/
+      'height' : 50*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
       'width' : 50*(pContainerHeight-wScroll)/(pContainerHeight) + '%',
     });
-
 
 
   }
